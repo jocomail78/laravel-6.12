@@ -1,1 +1,1 @@
-# laravel-6.12
+# laravel-6.12 example project
